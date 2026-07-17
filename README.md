@@ -2,7 +2,7 @@
 <h3 align="center">React Developer • UI/UX Explorer • Problem Solver</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Thoria CRM](https://thoria-crm.pp.ua)<br><br>- 🌱 I’m currently learning **Next.js**<br><br>- 👨‍💻 All of my projects are available at [https://noescape.vercel.app](https://noescape.vercel.app)<br><br>- 📫 How to reach me **dmitrijzavadovskij@gmail.com**<br><br>- 📄 Know about my experiences [https://noescape.vercel.app/assets/CV_Zavadovskyi_Dmytro-BUzqPuR4.pdf](https://noescape.vercel.app/assets/CV_Zavadovskyi_Dmytro-BUzqPuR4.pdf)<br><br>- ⚡ Fun fact **I hate fish dishes**
+- 🔭 I’m currently working in [Affnetix](https://affnetix.com)<br><br>- 🌱 I’m currently learning **Next.js**<br><br>- 👨‍💻 All of my projects are available at [https://noescape.vercel.app](https://noescape.vercel.app)<br><br>- 📫 How to reach me **dmitrijzavadovskij@gmail.com**<br><br>- 📄 Know about my experiences [https://noescape.vercel.app/assets/CV_Zavadovskyi_Dmytro-BUzqPuR4.pdf](https://noescape.vercel.app/assets/CV_Zavadovskyi_Dmytro-BUzqPuR4.pdf)<br><br>- ⚡ Fun fact **I hate fish dishes**
 
 
 ## 🌐 Socials:
